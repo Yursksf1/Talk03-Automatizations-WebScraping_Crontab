@@ -13,3 +13,8 @@ deactivate
 ```
 pip install -r requerimentes.txt
 ```
+
+# correr el codigo
+```
+python web_scraping.py
+```
